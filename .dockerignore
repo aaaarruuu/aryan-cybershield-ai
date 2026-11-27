@@ -1,0 +1,10 @@
+**/node_modules
+**/dist
+**/__pycache__
+**/.pytest_cache
+.git
+.env
+*.db
+chroma_data
+backend/data
+backend/app/ml/artifacts/*.joblib

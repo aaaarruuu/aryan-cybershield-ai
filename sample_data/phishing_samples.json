@@ -1,0 +1,20 @@
+[
+ {
+  "label": "phishing",
+  "subject": "URGENT: Your account will be suspended",
+  "sender": "security@paypa1-support.com",
+  "body": "Dear customer, we detected unusual activity. Verify your password immediately or your account will be suspended within 24 hours.",
+  "urls": [
+   "http://paypa1-support.com.verify-login.xyz/login"
+  ]
+ },
+ {
+  "label": "legitimate",
+  "subject": "Team meeting notes - Tuesday",
+  "sender": "bob@example.com",
+  "body": "Hi all, attached are the notes from Tuesday's meeting. Let me know if I missed anything. Thanks, Bob",
+  "urls": [
+   "https://example.com/wiki/meeting-notes"
+  ]
+ }
+]

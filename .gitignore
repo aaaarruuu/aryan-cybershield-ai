@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+node_modules/
+dist/
+*.db
+backend/data/
+backend/app/ml/artifacts/*.joblib
+chroma_data/
+.pytest_cache/

@@ -1,0 +1,18 @@
+[
+ {"label":"phishing","text":"Action required: your Microsoft 365 password expires in 2 hours. Sign in now to keep your mailbox active."},
+ {"label":"phishing","text":"We were unable to deliver your parcel. Pay a small redelivery fee of 1.99 to release the package, enter your card details here."},
+ {"label":"phishing","text":"Your bank account has been limited. Confirm your identity and security answers to restore full access today."},
+ {"label":"phishing","text":"Dear user, a payment of 849.00 was authorised from your account. If this was not you, log in immediately to cancel."},
+ {"label":"phishing","text":"IT helpdesk: your VPN certificate is invalid. Reply with your username and password so we can reissue it."},
+ {"label":"phishing","text":"Congratulations! You have been selected for a 500 gift card. Claim within 24 hours by verifying your login details."},
+ {"label":"phishing","text":"Final warning: your tax refund is on hold. Submit your national ID and bank account number to receive it."},
+ {"label":"phishing","text":"Unusual sign-in attempt detected from a new device. Click here to secure your account before it is locked."},
+ {"label":"legitimate","text":"Reminder: the team retrospective is on Thursday at 3pm in the large meeting room. Please add agenda items to the shared document."},
+ {"label":"legitimate","text":"Your order has shipped and should arrive Tuesday. You can track it from the orders page after signing in to the website directly."},
+ {"label":"legitimate","text":"Urgent: the staging server will be restarted tonight at 10pm for maintenance. Please save your work before then."},
+ {"label":"legitimate","text":"Hi Sam, can you review the attached invoice from the vendor and confirm the amount matches the purchase order?"},
+ {"label":"legitimate","text":"Security notice: we recommend enabling two-factor authentication. You can do this under Settings whenever convenient. No action is required now."},
+ {"label":"legitimate","text":"Thanks for contacting support. Your ticket 48213 has been resolved. Reply to this email if the problem returns."},
+ {"label":"legitimate","text":"The quarterly password rotation policy is attached for your information. Follow the usual process on the intranet when it is time."},
+ {"label":"legitimate","text":"Happy birthday! The team has booked a table for lunch on Friday to celebrate. Hope you can join us."}
+]

@@ -1,0 +1,32 @@
+{
+ "ip:203.0.113.45": {
+  "malicious": 14,
+  "suspicious": 2,
+  "harmless": 60,
+  "note": "demo: simulated brute-force source"
+ },
+ "ip:198.51.100.77": {
+  "malicious": 6,
+  "suspicious": 4,
+  "harmless": 70,
+  "note": "demo: simulated password-spraying source"
+ },
+ "domain:paypa1-support.com": {
+  "malicious": 11,
+  "suspicious": 3,
+  "harmless": 55,
+  "note": "demo: simulated lookalike domain"
+ },
+ "domain:verify-login.xyz": {
+  "malicious": 9,
+  "suspicious": 5,
+  "harmless": 58,
+  "note": "demo: simulated phishing host"
+ },
+ "domain:example.com": {
+  "malicious": 0,
+  "suspicious": 0,
+  "harmless": 80,
+  "note": "demo: reserved example domain"
+ }
+}
